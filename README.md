@@ -1,16 +1,46 @@
-## Hi there 👋
+# hello, i'm Angad
 
-<!--
-**Angad-Chede/Angad-chede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i enjoy working on ideas and turning them into real products.
 
-Here are some ideas to get you started:
+i’m currently diving deep into **web development** and love building things that feel useful, clean, and practical.  
+right now, i’m focused on improving through **projects, hackathons, and consistent learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## about me
+
+- web development enthusiast
+- learning by building real projects
+- interested in frontend experiences and product thinking
+- actively exploring modern tools and workflows
+- focused on becoming better every single day
+
+---
+
+## current focus
+
+1. mastering frontend development
+2. building strong projects with real use cases
+3. learning react / next.js ecosystem
+4. improving design sense and UI polish
+5. understanding how full products are built
+
+---
+
+## tech i'm learning
+
+- html / css / javascript
+- react
+- next.js
+- tailwind css
+- git & github
+- rest apis
+- basic deployment
+
+---
+
+## links (reach me here if you wanna build something)
+
+- linkedin: [your-link]
+- github: [your-link]
+- x / twitter: [your-link]
