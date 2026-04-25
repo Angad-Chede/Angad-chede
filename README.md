@@ -17,6 +17,6 @@ At present, I’m strengthening my skills through **hands-on projects, hackathon
 
 ## links (reach me here if you wanna build something)
 
-- [Linkedin]www.linkedin.com/in/angad-chede-86600b366
-- [Github] https://github.com/Angad-Chede
-- [X] [https://x.com/Archilyte_]
+- [Linkedin](www.linkedin.com/in/angad-chede-86600b366)
+- [Github](https://github.com/Angad-Chede)
+- [ X ](https://x.com/Archilyte_)
