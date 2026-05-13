@@ -1,6 +1,6 @@
-# Hello, i'm Angad
+# Hello, I'm Angad
 
-i enjoy working on ideas and turning them into real products.
+I enjoy working on ideas and turning them into real products.
 
 I’m currently deepening my expertise in **web development**, with a strong interest in building real Projects.  
 At present, I’m strengthening my skills through **hands-on projects, hackathons, and continuous learning**, with the goal of creating digital experiences that are both impactful and enjoyable to use.
